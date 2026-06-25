@@ -1,139 +1,208 @@
-<h1 align="center">Hi, I'm Vivek Sharma 👋</h1>
+# <h1 align="center">Hi, I'm Vivek Sharma 👋</h1>
 
-<h3 align="center">Cybersecurity Analyst | SOC Operations | Threat Detection & Network Security</h3>
+<h3 align="center">Cybersecurity Analyst | SOC Operations | Threat Detection | Security Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vivek-sharma-370741392">
-    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:thecybervivek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thecybervivek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-thecybervivek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 🔐 About Me
-
-I'm a Cybersecurity student from Bareilly, UP — currently completing my **PG Diploma in Cyber Security** from Government Polytechnic Ghaziabad.
-
-I don't just study security concepts — I simulate real attack scenarios in lab environments and document every investigation. My focus is **SOC operations**, **network traffic analysis**, and **SIEM-based threat detection**.
-
-- 🎯 Targeting: **SOC Analyst / Cybersecurity Analyst** roles
-- 🛠️ Currently working on: Expanding threat hunting lab projects
-- 📍 Location: Bareilly, Uttar Pradesh, India
-- 📬 Open to: Full-time roles, internships & referrals
+<p align="center">
+<img src="https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/TryHackMe-Learning-red?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛡️ Technical Skills
+# 🔐 About Me
 
-| Category | Tools & Technologies |
-|---|---|
-| **SIEM & Log Analysis** | Splunk, Microsoft Sentinel (Basic), IBM QRadar (Basic) |
-| **Network Analysis** | Wireshark, Nmap, Snort (Basic), TCP/IP, DNS, HTTP/HTTPS |
-| **Security Testing** | Burp Suite, ModSecurity (WAF - Basic), Kali Linux |
-| **Frameworks** | MITRE ATT&CK, Network Security Monitoring |
-| **Concepts** | Threat Detection, Log Analysis, Vulnerability Scanning, Incident Investigation, Basic Malware Analysis (Static), Active Directory Fundamentals |
-| **OS & Version Control** | Kali Linux, Windows, Git, GitHub |
+I'm a Cybersecurity student from Bareilly, Uttar Pradesh, currently pursuing a **PG Diploma in Cyber Security** from Government Polytechnic Ghaziabad.
 
----
+I enjoy building security labs, simulating real-world attacks, investigating incidents, and documenting findings. My primary interests include **SOC Operations, Threat Hunting, Network Security, Active Directory Security, Digital Forensics, and SIEM-based Detection Engineering.**
 
-## 🔬 Security Projects
-
-### 🔵 [SOC Log Analysis — Splunk SIEM](https://github.com/vivek-sh45/splunk-soc-incident-investigation)
-> Simulated a real SOC L1 analyst investigation workflow end to end
-
-- Analyzed authentication and system logs using Splunk to detect suspicious login activity
-- Built custom SPL search queries to identify **brute-force attack patterns** in authentication logs
-- Investigated multiple failed login events and flagged abnormal authentication behavior
-- Documented findings as a structured incident investigation report
-
-**Tools:** Splunk SIEM · SPL · Log Analysis · Authentication Logs
+* 🎯 Targeting: **SOC Analyst | Security Engineer | Cybersecurity Analyst**
+* 🔬 Currently Learning: **Windows Security, Active Directory, Threat Hunting & Detection Engineering**
+* 🏆 Completed **3 Cybersecurity Internships**
+* 📍 Bareilly, Uttar Pradesh, India
+* 📬 Open to **Full-time | Remote | Relocation**
 
 ---
 
-### 🟢 [Network Traffic Analysis — Wireshark](https://github.com/vivek-sh45/wireshark-network-traffic-analysis)
-> Captured and investigated live network packets on Kali Linux
+# 🛡️ Technical Skills
 
-- Applied DNS, TCP, and HTTP/HTTPS filters to isolate suspicious network activity
-- Examined packet-level details to identify abnormal traffic patterns and communication behavior
-- Used protocol hierarchy and endpoint statistics to map network communications
-- Documented findings with annotated packet captures
-
-**Tools:** Wireshark · Kali Linux · TCP/IP · DNS · Network Protocols
-
----
-
-### 🟡 [Nmap Vulnerability Scanning Lab](https://github.com/vivek-sh45/nmap-vulnerability-scan-lab)
-> Structured vulnerability assessment across a test network range
-
-- Performed host discovery and port scanning across multiple test subnets
-- Identified open ports, running services, and software version misconfigurations
-- Mapped findings to potential attack vectors and documented remediation recommendations
-
-**Tools:** Nmap · Kali Linux · Network Reconnaissance
+| Category            | Skills                                                                                              |
+| ------------------- | --------------------------------------------------------------------------------------------------- |
+| SIEM                | Splunk, Microsoft Sentinel (Basic), IBM QRadar (Basic), Wazuh (Basic)                               |
+| Network Security    | Wireshark, Nmap, Snort IDS/IPS (Basic), TCP/IP, DNS, HTTP/HTTPS                                     |
+| Security Testing    | Burp Suite, Kali Linux, ModSecurity (Basic)                                                         |
+| Blue Team           | Threat Hunting, Incident Investigation, IOC Analysis, Log Analysis                                  |
+| Frameworks          | MITRE ATT&CK, Cyber Kill Chain                                                                      |
+| Security Concepts   | Vulnerability Assessment, Active Directory Fundamentals, Windows Security, Malware Analysis (Basic) |
+| Digital Forensics   | Mobile Forensics, Digital Forensics, Evidence Collection (Basic)                                    |
+| Threat Intelligence | OSINT, Threat Intelligence                                                                          |
+| Version Control     | Git, GitHub                                                                                         |
+| Operating Systems   | Kali Linux, Windows                                                                                 |
 
 ---
 
-### 🟠 [Password Cracking & Hashing Algorithms](https://github.com/vivek-sh45/Password-Cracking-and-Hashing-Algorithms)
-> Security awareness project — Codec Technologies Internship
+# 🔬 Security Projects
 
-- Implemented and analyzed MD5, SHA-1, and SHA-256 hashing algorithms in Python
-- Demonstrated dictionary and brute-force cracking techniques against weak hashed passwords
-- Produced a comparative report on algorithm strength and real-world security implications
+## 🔵 SOC Incident Investigation — Splunk SIEM
 
-**Tools:** Python · Hashlib · Security Research
+https://github.com/vivek-sh45/splunk-soc-incident-investigation
 
----
-
-### 🔴 [Threat Hunting Lab — Wireshark](https://github.com/vivek-sh45/threat-hunting-lab)
-> Proactive threat hunting investigation on captured network traffic
-
-- Investigated network captures to identify suspicious C2-style communication patterns
-- Mapped identified behaviors to MITRE ATT&CK tactics (Command & Control, Exfiltration)
-- Documented the hunting methodology and IOCs (Indicators of Compromise)
-
-**Tools:** Wireshark · MITRE ATT&CK · Threat Intelligence
+* Investigated authentication logs
+* Created SPL queries
+* Detected brute-force attacks
+* Generated SOC investigation report
 
 ---
 
-## 💼 Experience
+## 🟢 Network Traffic Analysis — Wireshark
 
-**Cyber Security Intern** — CloudKing Technical, Noida *(Dec 2025 – Jan 2026)*
-- Conducted network traffic analysis and vulnerability scanning in lab environments
-- Performed security log monitoring and identified authentication anomalies
-- Documented vulnerability findings with structured remediation recommendations
+https://github.com/vivek-sh45/wireshark-network-traffic-analysis
 
-**Cyber Security Intern** — Codec Technologies Pvt Ltd *(Jan 2026)*
-- Implemented password hashing and cracking analysis using Python
-- Mapped attack techniques to the MITRE ATT&CK framework
-- Performed vulnerability assessment exercises across test systems
+* Packet analysis
+* DNS, TCP, HTTP investigation
+* Protocol hierarchy analysis
+* Network communication mapping
 
 ---
 
-## 📜 Certifications
+## 🟡 Nmap Vulnerability Scan Lab
 
-- 🏅 **Junior Cybersecurity Analyst Career Path** — Cisco Networking Academy
-- 🏅 **Endpoint Security** — Cisco Networking Academy
-- 🏅 **Network Defense** — Cisco Networking Academy
-- 🏅 **Cybersecurity Analyst Job Simulation** — TATA Forage
-- 🏅 **Cybersecurity Essentials** — NIIT Foundation
+https://github.com/vivek-sh45/nmap-vulnerability-scan-lab
+
+* Host discovery
+* Port scanning
+* Service enumeration
+* Vulnerability documentation
 
 ---
 
-## 📊 GitHub Stats
+## 🟠 Password Cracking & Hashing Algorithms
+
+https://github.com/vivek-sh45/Password-Cracking-and-Hashing-Algorithms
+
+* MD5
+* SHA-1
+* SHA-256
+* Dictionary attacks
+* Brute-force demonstrations
+
+---
+
+## 🔴 Threat Hunting Lab
+
+https://github.com/vivek-sh45/threat-hunting-lab
+
+* Command & Control detection
+* IOC extraction
+* MITRE ATT&CK mapping
+* Threat Hunting workflow
+
+---
+
+# 💼 Experience
+
+### Cyber Security Intern
+
+**CloudKing Technical, Noida**
+*Dec 2025 – Jan 2026*
+
+* Network Traffic Analysis
+* Vulnerability Assessment
+* SIEM Log Investigation
+* Security Documentation
+
+---
+
+### Cyber Security Intern
+
+**Codec Technologies Pvt. Ltd.**
+*Jan 2026*
+
+* Password Security Research
+* Hashing Algorithms
+* MITRE ATT&CK Mapping
+* Security Assessment
+
+---
+
+### Cyber Security Intern
+
+**Amroha Police Cyber Security Internship Program (APCSIP-2026)**
+*June 2026*
+
+* Security Operations Center (SOC)
+* Cyber Laws
+* Digital Forensics
+* Mobile Forensics
+* Threat Intelligence
+* OSINT
+* AI Security
+* Bug Hunting
+* Capture The Flag (CTF)
+* Cyber Psychology
+* Mobile Malware Analysis
+
+---
+
+# 📜 Certifications
+
+* 🏅 Cisco Junior Cybersecurity Analyst Career Path
+* 🏅 Cisco Endpoint Security
+* 🏅 Cisco Network Defense
+* 🏅 Cisco Cyber Threat Management
+* 🏅 Cisco Networking Basics
+* 🏅 Cisco Packet Tracer
+* 🏅 TATA Forage Cybersecurity Analyst Job Simulation
+* 🏅 NIIT Cybersecurity Essentials
+* 🏅 APCSIP-2026 | Amroha Police Cyber Security Internship Program
+
+---
+
+# 🚀 Currently Building
+
+* Windows Active Directory Lab
+* Wazuh SIEM Detection Lab
+* Malware Analysis Lab
+* Blue Team Detection Rules
+* Phishing Investigation Lab
+* DFIR Labs
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek-sh45&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-sh45&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vivek-sh45&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-sh45&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to SOC Analyst, Cybersecurity Analyst & Threat Detection roles across India</i><br/>
-  <b>thecybervivek@gmail.com &nbsp;|&nbsp; Bareilly, UP &nbsp;|&nbsp; linkedin.com/in/vivek-sharma-cybersec</b>
+
+### 🎯 Career Objective
+
+Building a career in Blue Team Operations, SOC Monitoring, Threat Detection, Incident Response and Detection Engineering while continuously learning modern defensive security techniques.
+
+</p>
+
+---
+
+<p align="center">
+<b>📧 thecybervivek@gmail.com</b><br>
+📍 Bareilly, Uttar Pradesh, India<br>
+Open to Full-time • Remote • Relocation
 </p>
