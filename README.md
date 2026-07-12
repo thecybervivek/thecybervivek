@@ -170,29 +170,6 @@ https://github.com/vivek-sh45/threat-hunting-lab
 
 ---
 
-# 🚀 Currently Building
-
-* Windows Active Directory Lab
-* Wazuh SIEM Detection Lab
-* Malware Analysis Lab
-* Blue Team Detection Rules
-* Phishing Investigation Lab
-* DFIR Labs
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vivek-sh45&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-sh45&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-
 ### 🎯 Career Objective
 
 Building a career in Blue Team Operations, SOC Monitoring, Threat Detection, Incident Response and Detection Engineering while continuously learning modern defensive security techniques.
