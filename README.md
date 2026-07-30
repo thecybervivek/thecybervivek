@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Analyst | SOC Operations | Threat Detection | Blue Team</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vivek-sharma-370741392">
+  <a href="https://www.linkedin.com/in/thecybervivek">
     <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -61,7 +61,7 @@ I enjoy building security labs, investigating incidents, analyzing network and s
 **Production-oriented OSINT and Threat Intelligence investigation platform built with FastAPI, React/TypeScript, PostgreSQL, Redis and Docker.**
 
 **Repository:**  
-https://github.com/vivek-sh45/AI-Powered-OSINT-Investigation-Platform
+https://github.com/thecybervivek/AI-Powered-OSINT-Investigation-Platform
 
 - Built investigation workflows across **username, email, domain, IP, DNS, URL, phone, file, reverse-image, social-media, breach, malware and threat intelligence**
 - Developed evidence normalization, correlation and multidimensional **Risk, Exposure, Confidence & Coverage** scoring
@@ -79,7 +79,7 @@ https://github.com/vivek-sh45/AI-Powered-OSINT-Investigation-Platform
 ## 🔵 SOC Incident Investigation — Splunk SIEM
 
 **Repository:**  
-https://github.com/vivek-sh45/splunk-soc-incident-investigation
+https://github.com/thecybervivek/splunk-soc-incident-investigation
 
 - Investigated authentication and security logs
 - Created SPL queries for event analysis
@@ -91,7 +91,7 @@ https://github.com/vivek-sh45/splunk-soc-incident-investigation
 ## 🟢 Network Traffic Analysis — Wireshark
 
 **Repository:**  
-https://github.com/vivek-sh45/wireshark-network-traffic-analysis
+https://github.com/thecybervivek/wireshark-network-traffic-analysis
 
 - Analyzed network packet captures
 - Investigated DNS, TCP and HTTP traffic
@@ -103,7 +103,7 @@ https://github.com/vivek-sh45/wireshark-network-traffic-analysis
 ## 🟡 Nmap Vulnerability Scan Lab
 
 **Repository:**  
-https://github.com/vivek-sh45/nmap-vulnerability-scan-lab
+https://github.com/thecybervivek/nmap-vulnerability-scan-lab
 
 - Performed host discovery and port scanning
 - Conducted service enumeration
@@ -115,7 +115,7 @@ https://github.com/vivek-sh45/nmap-vulnerability-scan-lab
 ## 🟠 Password Cracking & Hashing Algorithms
 
 **Repository:**  
-https://github.com/vivek-sh45/Password-Cracking-and-Hashing-Algorithms
+https://github.com/thecybervivek/Password-Cracking-and-Hashing-Algorithms
 
 - Explored MD5, SHA-1 and SHA-256 hashing
 - Performed controlled dictionary attack demonstrations
@@ -127,7 +127,7 @@ https://github.com/vivek-sh45/Password-Cracking-and-Hashing-Algorithms
 ## 🔴 Threat Hunting Lab
 
 **Repository:**  
-https://github.com/vivek-sh45/threat-hunting-lab
+https://github.com/thecybervivek/threat-hunting-lab
 
 - Investigated Command & Control indicators
 - Extracted and analyzed IOCs
